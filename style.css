@@ -61,6 +61,41 @@
     list-style: none;
     font-size: 20px;
 }
+.new-year{
+    display: flex;
+   
+}
+.new-year div img{
+    width: 500px;
+    height: 505px;
+    margin-right: 100px;
+   
+}
+.new-section{
+    margin-top: 80px;
+}
+#chinese{
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-right:100px ;
+    font-size: 25px;
+}
+#chinese h1{
+    color: brown;
+}
+#button-2{
+    width: 120px;
+    height:  30px;
+    background-color: crimson;
+    border-radius: 5px;
+    border: none;
+}
+#button-2:hover{
+    background-color: aquamarine;
+}
+
+
+
 #my-plans{
     font-size: 40px;
     margin-top: 90px;
