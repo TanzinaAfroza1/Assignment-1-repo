@@ -9,18 +9,23 @@
     height: 700px;
 }
 #header-1{
-    margin-left: 700px;
-    font-size: 30px;
+    margin-left: 600px;
+    padding-right: 100px;
+    font-size: 25px;
     padding-top: 50px;
+    text-align: right;
     font-family: 'Poppins', sans-serif;
     
 }
 #header-1 h1{
     color: lightcoral;
+    
 }
 #header-1 p{
     font-size: 20px;
+    
 }
+
 #button-1{
     border: none;
     background-color: coral;
